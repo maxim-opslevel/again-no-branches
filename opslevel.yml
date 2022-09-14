@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: API Gateway
+  name: API Gateway 2
   lifecycle:
   tier: tier_1
   product:
