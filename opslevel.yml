@@ -19,7 +19,7 @@ service:
     value: value22222
   repositories:
   - name: maxim-opslevel/again-no-branches
-    path: "/path"
+    path: "{}{}//path"
     provider: github
   tools:
   dependencies:
